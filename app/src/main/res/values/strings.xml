@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimerApp</string>
+    <string name="hint_minute">Minutos</string>
+    <string name="message_minutes">Ingrese los minutos...</string>
+</resources>
